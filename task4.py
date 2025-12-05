@@ -1,4 +1,4 @@
-with open("input3.txt") as file:
+with open("input4.txt") as file:
     data = [list(e.strip()) for e in file.readlines()]
 print(data)
 
